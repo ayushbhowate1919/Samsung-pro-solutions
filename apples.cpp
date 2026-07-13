@@ -5,6 +5,9 @@ void solve(){
      int n , m ; 
      cin>>n>>m ; 
      
+      // revise this question ; 
+
+      
      vector<vector<int>> grid(n , vector<int>(m)) ; 
      int total = 0 ; 
      for(int i = 0 ; i <n ; i++){
