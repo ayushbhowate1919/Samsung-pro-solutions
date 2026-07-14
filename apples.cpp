@@ -71,11 +71,9 @@ void solve(){
                else{
                     dq.push_back({nr , nc , ncnt , dir});
                }
-               
-               
               
          }
-     }
+     };
      
      while(!dq.empty()){
           vector<int> v = dq.front();
